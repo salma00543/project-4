@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    width: auto;
+}
+.container{
+     width:1900px;
+     margin: 0 auto;
+}
+.logo-area h1{
+    background:#F7F7F7;
+    padding: 20px 20px;
+    font-size: 50px;
+   }
+.logo-area h1 a{
+    color:#262626;
+}
+.menu-section{
+    padding: 0px 0px;
+    background:#262626;
+    display: block;
+    overflow: hidden;
+}
+.menu{
+    width: 60%;
+    float: left:
+}
+.fb-link{
+    width: 40%;
+    float: right;
+}
+.menu ul{
+    list-style: none;
+    }
+.menu ul li{
+    display:inline-block;
+    padding: 20px 20px;
+    font-size: 25px;
+    margin-left:  20px;
+}
+.menu ul li:hover{
+    background: #AAABAB;
+}
+.menu ul li a{
+    color: #EFEFF1;
+}
+.fb-link img{
+    height:40px;
+    width: 40px;
+    margin-top:-53.5px;
+    margin-right: 20px;
+    float:right;
+    background:#EFEFF1;
+    border-radius: 100%;
+}
+.fb-link img:hover{
+    background:#1877F2;
+}
+.header-img{
+    margin-top: 25px;
+}
+.header-img img{
+    width:100%;
+    height:50%;
+}
+.service-area{
+    padding-top: 60px;
+    margin-left:10px;
+    
+}
+.single-service{
+    width: 30%;
+    margin-right: 17px;
+    display:inline-block;
+    background:#ACB7AF;
+    padding:50px 20px;
+    
+}
+.single-service h2{
+    text-transform: capitalize;
+    padding-left:20px;
+}
+p{
+    font-size:20px;
+    padding-left:20px;
+    
+}
